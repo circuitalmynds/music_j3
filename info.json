@@ -2,11 +2,25 @@
     "available_space": true,
     "content": [
         {
+            "id": "pnyeLFEK4jw",
+            "name": "Cocky Did Hurt Me [pnyeLFEK4jw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/Cocky Did Hurt Me [pnyeLFEK4jw].mp4",
+            "size": 6.790617,
+            "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Cocky Did Hurt Me [pnyeLFEK4jw].mp4?raw=true"
+        },
+        {
             "id": "5Vc1LQlst7M",
             "name": "Diálogo [5Vc1LQlst7M].mp4",
             "path": "/home/alanmatzumiya/Videos/container/j3/videos/Diálogo [5Vc1LQlst7M].mp4",
             "size": 5.649134999999999,
             "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Diálogo [5Vc1LQlst7M].mp4?raw=true"
+        },
+        {
+            "id": "mBysZthr-Mo",
+            "name": "BLUE CURACAO [mBysZthr-Mo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/BLUE CURACAO [mBysZthr-Mo].mp4",
+            "size": 9.632183,
+            "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/BLUE CURACAO [mBysZthr-Mo].mp4?raw=true"
         },
         {
             "id": "EQ6TYnoeGLY",
@@ -42,6 +56,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j3/videos/I Can't Be Bothered Now [Yuft_wRlpJM].mp4",
             "size": 9.968058,
             "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/I Can't Be Bothered Now [Yuft_wRlpJM].mp4?raw=true"
+        },
+        {
+            "id": "PFVLXShXFFs",
+            "name": "A Couple of Fools in Love [PFVLXShXFFs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/A Couple of Fools in Love [PFVLXShXFFs].mp4",
+            "size": 4.011666,
+            "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/A Couple of Fools in Love [PFVLXShXFFs].mp4?raw=true"
         },
         {
             "id": "D1ZYhVpdXbQ",
@@ -219,6 +240,13 @@
             "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Carl Maria von Weber - Invitation to the Dance _ Aufforderung zum Tanz _ Invitation à la Valse-Cwsd4Cy2QNs.mp4?raw=true"
         },
         {
+            "id": "th0t9Hza8rk",
+            "name": "Sarasate-＂Habanera＂ ~Itzhak Perlman [th0t9Hza8rk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/Sarasate-＂Habanera＂ ~Itzhak Perlman [th0t9Hza8rk].mp4",
+            "size": 8.334501999999999,
+            "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Sarasate-＂Habanera＂ ~Itzhak Perlman [th0t9Hza8rk].mp4?raw=true"
+        },
+        {
             "id": "PHhyzp2pF-g",
             "name": "큰일 (Big Things) [PHhyzp2pF-g].mp4",
             "path": "/home/alanmatzumiya/Videos/container/j3/videos/큰일 (Big Things) [PHhyzp2pF-g].mp4",
@@ -231,6 +259,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j3/videos/Gitanerías (Remastered)-sAw0dSDI1ww.mp4",
             "size": 2.7707759999999997,
             "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Gitanerías (Remastered)-sAw0dSDI1ww.mp4?raw=true"
+        },
+        {
+            "id": "UwyaL-DECrg",
+            "name": "Images, Série II： No. 3, Poissons d'or [UwyaL-DECrg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/Images, Série II： No. 3, Poissons d'or [UwyaL-DECrg].mp4",
+            "size": 5.681329,
+            "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Images, Série II： No. 3, Poissons d'or [UwyaL-DECrg].mp4?raw=true"
         },
         {
             "id": "1CGUa6-Ltks",
@@ -301,6 +336,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j3/videos/Wig Wise (Remastered) [t6s0iDoXpdY].mp4",
             "size": 8.967604999999999,
             "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Wig Wise (Remastered) [t6s0iDoXpdY].mp4?raw=true"
+        },
+        {
+            "id": "UAXJYNA-eYg",
+            "name": "Tres Lindas Cubanas [UAXJYNA-eYg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/Tres Lindas Cubanas [UAXJYNA-eYg].mp4",
+            "size": 6.115047,
+            "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Tres Lindas Cubanas [UAXJYNA-eYg].mp4?raw=true"
         },
         {
             "id": "KBlTnzYODtQ",
@@ -380,5 +422,5 @@
             "url": "https://github.com/circuitalmynds/music_j3/blob/main/videos/Caballero de Olmedo (Remastered) [J9IjZeAqZew].mp4?raw=true"
         }
     ],
-    "total_size": 899.3335949999998
+    "total_size": 939.8989389999998
 }
