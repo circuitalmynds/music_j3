@@ -170,6 +170,13 @@
             "url": "https://github.com/circuitalmynds/music_j3/raw/main/videos/Art Blakey and the Jazz messengers - The Witch Doctor (1961) {Full Album} [k83zmjHSD_E].mp4"
         },
         {
+            "id": "cqOmfhmsRZw",
+            "name": "Theremin and Piano \uff5c Debussy - Arabesque n\u00b01 \uff5c Gr\u00e9goire Blanc [cqOmfhmsRZw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j3/videos/Theremin and Piano \uff5c Debussy - Arabesque n\u00b01 \uff5c Gr\u00e9goire Blanc [cqOmfhmsRZw].mp4",
+            "size": 26.998499,
+            "url": "https://github.com/circuitalmynds/music_j3/raw/main/videos/Theremin and Piano \uff5c Debussy - Arabesque n\u00b01 \uff5c Gr\u00e9goire Blanc [cqOmfhmsRZw].mp4"
+        },
+        {
             "id": "SolYdL5tcag",
             "name": "Elli et Jacno - Main dans la main [SolYdL5tcag].mp4",
             "path": "/home/alanmatzumiya/Videos/container/j3/videos/Elli et Jacno - Main dans la main [SolYdL5tcag].mp4",
@@ -373,5 +380,5 @@
             "url": "https://github.com/circuitalmynds/music_j3/raw/main/videos/Caballero de Olmedo (Remastered) [J9IjZeAqZew].mp4"
         }
     ],
-    "total_size": 899.444149
+    "total_size": 926.442648
 }
